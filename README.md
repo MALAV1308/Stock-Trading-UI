@@ -40,13 +40,12 @@ The task is to create a stock trading platform where users can buy and sell stoc
 # Frontend Installation:
 
 1.	Clone the UI system into a directory on your system using the below Github link.
-2.	via SSH: > git clone git@github.com:jashmin3998/Stock_Trading_UI.git 
-3.	via HTTPS: > git clone https://github.com/jashmin3998/Stock_Trading_UI.git
-4.	change BaseApiURL in axios.js to communicate with backend.
-5.	Install npm and Internet Information System(IIS) into your system.
-6.	Run 'npm run build' command. It creates the build directory in the project folder.
-7.	Open the IIS dashboard and upload the build folder there.
-8.	Ready to hit the system URL by appending /stock-trading/.
+2.	HTTPS: > git clone https://github.com/MALAV1308/Stock-Trading-UI.git
+3.	change BaseApiURL in axios.js to communicate with backend.
+4.	Install npm and Internet Information System(IIS) into your system.
+5.	Run 'npm run build' command. It creates the build directory in the project folder.
+6.	Open the IIS dashboard and upload the build folder there.
+7.	Ready to hit the system URL by appending /stock-trading/.
 
 # Architecture:
 ![image](https://user-images.githubusercontent.com/90228721/161123236-97580645-5cf0-4aef-86da-c9d4d313b8ad.png)
